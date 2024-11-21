@@ -1,6 +1,5 @@
-<p align="center">
-![github](https://github.com/user-attachments/assets/c614e1aa-dde1-43da-8fdd-506ffdefd377)  
-</p>
+
+![github](https://github.com/user-attachments/assets/fde01be9-2e25-4556-a14f-8a036601ec73)
 
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1xNzNiMmo1bHVja2JmOWI3MDE1aWthMm8yM3p2Yjhycm80YTh4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/> Welcome to Yessica's GitHub :)
