@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <<p align="center">
   ![girhub-profile](https://github.com/user-attachments/assets/ee46f949-742c-496e-892e-71a87e97685c)
 </p>>
