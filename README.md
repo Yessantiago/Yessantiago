@@ -1,9 +1,12 @@
 ## Hi there 👋
+
+<<p align="center">
+![github-profile](Yessantiago/Yessantiago/github-profile.gif)
+</p>>
+
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1xNzNiMmo1bHVja2JmOWI3MDE1aWthMm8yM3p2Yjhycm80YTh4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/> Welcome to Yessica's GitHub :)
 
-<p align="center">
-![girhub-profile](https://github.com/user-attachments/assets/e9035783-4a31-467c-9d63-ad22654ecd6b)
-</p>
+
 
 
 <!--
